@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Folder
+/MTW2Converter/MTW2Converter/text
+/MTW2Converter/MTW2Converter/obj
+/MTW2Converter/.vs
